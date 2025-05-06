@@ -61,6 +61,7 @@ Alex,49
 The script produces a PDF report containing:
 - Analysis summary (average, max, min values)
 - Tabular display of all input data
+  
 ![Screenshot 2025-05-03 185451](https://github.com/user-attachments/assets/2674ecec-9208-48d0-b60d-611085de26d9)
 
 
